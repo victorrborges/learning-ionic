@@ -14,7 +14,8 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
   templateUrl: 'feed.html',
 })
 export class FeedPage {
-
+  public nome_usuario:string = "Victor Borges"; 
+  
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
