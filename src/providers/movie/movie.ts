@@ -20,6 +20,6 @@ export class MovieProvider {
   }
 
   private getApiKey(): string {
-    return "my key";
+    return "a5525d50cfb48e8d6dc8135d5412f346";
   }
 }
